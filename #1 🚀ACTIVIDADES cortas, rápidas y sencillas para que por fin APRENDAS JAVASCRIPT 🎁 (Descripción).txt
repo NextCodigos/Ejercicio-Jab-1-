@@ -1,0 +1,30 @@
+Es materialmente IMPOSIBLE APRENDER cualquier lenguaje de programación SIN práctica, ni cometer errores. Con el ERROR y su rápida solución es como REALMENTE se aprende cualquier contenido. En este vídeo te PROPONEMOS una actividad RÁPIDA y SENCILLA de JavaScript para que la intentes realizar de manera autónoma (con el vídeo parado) y puedas encontrar las SOLUCIONES en la SEGUNDA PARTE del vídeo.
+Aunque está TODO totalmente explicado, si tienes CUALQUIER duda NO DUDES en escribirla en los comentarios del vídeo y recibirás una contestación en un tiempo récord.
+
+Enlaces a las siguientes ACTIVIDADES CORTAS, RÁPIDAS y SENCILLAS:
+🎁 Actividad 2: (Eventos | selectores | style | if | alias) 👉 https://bit.ly/3AbkT04 
+🎁 Actividad 3: (innerHTML | value | substr | toLowerCase | toUpperCase | location) 👉 https://bit.ly/3oW8RpL
+🎁 Actividad 4: (value | funciones | random | floor | onkeydown | key | Number) 👉 https://bit.ly/3BSoAJZ
+🎁 Actividad 5 : (variables | funciones | expresiones | operadores | if | else | style)  👉 https://bit.ly/3jz1KzJ
+🎁 Actividad 6 : (classList | add | remove | .src | if | innerHTML | insertAdjacentHTML)  👉 https://bit.ly/3kRiaED
+🎁 Selectores (querySelector vs getElementById): 👉 https://bit.ly/3eDBQJa
+
+Capítulos:
+00:00 Explicación inicial de la nueva sección
+00:37 Funcionamiento de la sección
+01:39 Qué contenidos se van a tratar en esta actividad
+02:37 Enunciado de la actividad ¿Qué hay que hacer? 
+03:46 * SOLUCIÓN a la actividad. Punto de partida
+04:05 Creación de los botones y el DIV con HTML
+05:40 Creación de los eventos (onclick) de los botones
+06:11 Selectores (getElementById o querySelector)
+08:10 Creación de un evento (onclick) en un botón
+08:51 Uso de innerHTML
+11:17 Uso de insertAdjacentHTML
+11:41 Tarjeta que lleva directamente al vídeo explicativo de insertAdjacentHTML
+12:15 Susto mortal (CUIDADO a los que padecen del corazón)
+12:42 Consejo personal de JAB
+
+Código HTML y CSS de la actividad:
+Me acabo de dar cuenta que dentro de los comentarios de YouTube NO se permite la escritura de los símbolos "mayor que" y "menor que", por lo que es inviable que os copie aquí el código HTML y CSS tal y como he comentado en el vídeo. 
+No obstante, como es una actividad MUY corta (con 4 botones y un DIV) no tardarás más de 2 minutos más en hacerlo manualmente. Siento el pequeño "inconveniente"...
